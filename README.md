@@ -41,9 +41,7 @@ This project is a fully interactive **Power BI dashboard** built using the **Dum
 ### 🔹 Page 3: Customer Analysis
 ![Screenshot 2025-06-27 122712](https://github.com/user-attachments/assets/44c0efc5-05b7-4b4f-a801-d4eef85e3698)
 
-## 📁 File Included
 
-- ` DummyJSON (Live).pbix ` – Power BI file with live API connection and complete visuals
 
 ## 🚀 Tools & Tech
 
